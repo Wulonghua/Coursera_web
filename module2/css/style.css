@@ -16,6 +16,7 @@ h1 {
   right: 0px;
   top:   0px;
   background-color: #A52A2A;
+  border: 1px solid black;
   width: 100px;
   height: 30px;
   font-family: Helvetica;
@@ -30,6 +31,7 @@ h1 {
   right: 0px;
   top:   0px;
   background-color: #2AA52A;
+  border: 1px solid black;
   width: 100px;
   height: 30px;
   font-family: Helvetica;
@@ -44,6 +46,7 @@ h1 {
   right: 0px;
   top:   0px;
   background-color: #2A2AA5;
+  border: 1px solid black;
   width: 100px;
   height: 30px;
   font-family: Helvetica;
@@ -57,7 +60,7 @@ h1 {
 
 .container {
   background-color: #c7c7c7;    
-  border: 3px solid black;    
+  border: 1px solid black;    
   position: relative;    
   min-height: 200px;    
   margin: 15px;   
